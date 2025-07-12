@@ -69,6 +69,46 @@
             bindings = <&kp RALT>;
             key-positions = <21 22>;
         };
+
+        opening_square_bracket {
+            bindings = <&kp LEFT_BRACKET>;
+            key-positions = <7 8>;
+        };
+
+        closing_square_bracket {
+            bindings = <&kp RIGHT_BRACKET>;
+            key-positions = <8 9>;
+        }
+        
+        opening_curly_bracket {
+            bindings = <&kp LEFT_BRACE>;
+            key-positions = <31 32>;
+        };
+
+        closing_curly_bracket {
+            bindings = <&kp RIGHT_BRACE>;
+            key-positions = <32 33>;
+        };
+
+        opening_paren {
+            bindings = <&kp LEFT_PARENTHESIS>; 
+            key-positions = <2 3>;
+        };
+
+        closing_paren {
+            bindings = <&kp RIGHT_PARENTHESIS>;
+            key-positions = <3 4>;
+        };
+
+        opening_angle_bracket {
+            bindings = <&kp LS(COMMA)>;
+            key-positions = <26 27>;
+        };
+
+        closing_angle_bracket {
+            bindings = <&kp RS(DOT)>;
+            key-positions = <27 28>;
+        };
     };
 
     keymap {
