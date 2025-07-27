@@ -161,7 +161,7 @@
 &kp ESC    &kp Q  &kp W  &kp F     &kp P                &kp B                  &kp J    &kp L  &kp U      &kp Y    &trans    &kp BSPC
 &mo 1      &kp A  &kp R  &kp S     &kp T                &kp G                  &kp M    &kp N  &kp E      &kp I    &kp O     &kp RET
 &kp LSHFT  &kp Z  &kp X  &kp C     &kp D                &kp V                  &kp K    &kp H  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHIFT
-                         &kp LGUI  &hold_layer 6 SPACE  &hold_layer 5 SPACE    &kp RET  &mo 4  &kp RALT
+                         &kp LGUI  &hold_layer 6 SPACE  &hold_layer 5 TAB      &kp RET  &mo 4  &kp RALT
             >;
         };
 
